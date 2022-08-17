@@ -7,7 +7,7 @@ This is to test the HTTP and the CRUD operation with Express framework.
 - There will be sections as follows: Domain, Product, Request, and Order
 - There will be endpoints for each as CRUD (GET,POST,PUT,DELETE)
 - There can be association between the data variables (optional)
-- Create a 
+- Make a dynamic variable of an Id that changes with the req, res
 
 # Sample-Commands
 
@@ -20,8 +20,11 @@ This is to test the HTTP and the CRUD operation with Express framework.
 
 # Checklist
 
-[] get the server setup
+- [] get the server setup and to run
 
-[] create the domain endpoint
+- [] connect the server to the database
 
-[] Populate the database
+- [] populate the db with domain 
+
+- [] endpoint: read -- domain
+
