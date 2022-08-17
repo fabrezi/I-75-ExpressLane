@@ -1,0 +1,25 @@
+{
+  "name": "i-75-expresslane",
+  "version": "1.0.0",
+  "description": "HTTP test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrezi/I-75-ExpressLane.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "mow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabrezi/I-75-ExpressLane/issues"
+  },
+  "homepage": "https://github.com/fabrezi/I-75-ExpressLane#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
