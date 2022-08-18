@@ -1,0 +1,10 @@
+JS has concepts that are unique to the language:
+
+Following topics to look into:
+- `=>` what the fuck is this?:
+   :: arrow function expression: 
+- (req,res)
+- exports.module
+- require: 
+- async ()
+- 
