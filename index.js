@@ -9,7 +9,9 @@ app.get( '/',  (req, res) => {
     res.send('Hola Combrone');
 })
 
-app.listen(3000, () => {
-    console.log('Server is up and running mate!!')
+//process is a NodeJS
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => {
+    console.log(`Server is up and running at port: ${PORT}`);
 });
 
