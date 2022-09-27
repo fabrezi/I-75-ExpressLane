@@ -8,3 +8,9 @@ Following topics to look into:
 - require: 
 - async ()
 - 
+
+Stack:
+-server: express
+-db: postgres
+-orm: sequelize
+-
