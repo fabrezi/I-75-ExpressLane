@@ -5,10 +5,18 @@ there that can defeat me in any test.
 //You must learn to master technologies. The first step is to read about the technologies. Know the ins and outs of the working.
 As for today I need to add the feature to add a database connection to an API. When you make a call to an API, you need only credentials 
 (username, password). Then to make sure the endpoints are correctly called. All of programming follow these steps: reading, theoretical notions,
-program, debug. thats it. each part requires training. extreme training. read,think,code,debug is in a nutshell what my job is all about. 
+program, debug. thats it. each part requires training. extreme training. read,think,code,debug is in a nutshell what my job is all about. technologies
+stack: Express,sequelize,pg.
+
+//The landscape of technology changes rapidly. One must focus on the quality of knowledge then the quantity. In the end, it truly is the man versus the machine.
+In the old days, cowboys broke stallions; now they break machines. 
 
 //I have seen real legends who do programming for living. They understand the software as they made it. Coders are driven creatures that like to
 break things and gain wisdom after breaking code. They are good at multi-tasking. There is a sense of appreciation for the code itself. 
+
+//There are days that will be yours. There be days that be against you. Like the tides of ocean, the days change from one to another. The mind or the 
+ship steering wheel must remain intact. It cant be timid, pestured, weakened or intoxicated. It has to be ever-present. Ready to execute. Ready to explode.
+
 
 //task:
 - make a post data request to save data in db
