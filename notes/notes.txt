@@ -1,3 +1,20 @@
+//I do programming for a living. Its not a glamorous job but it does pay the bills. In order to prove to one self that you 
+are a true programmer, you must receive the acknowledgment and consideration from your peers. There are tremendous coders out 
+there that can defeat me in any test.
+
+//You must learn to master technologies. The first step is to read about the technologies. Know the ins and outs of the working.
+As for today I need to add the feature to add a database connection to an API. When you make a call to an API, you need only credentials 
+(username, password). Then to make sure the endpoints are correctly called. All of programming follow these steps: reading, theoretical notions,
+program, debug. thats it. each part requires training. extreme training. read,think,code,debug is in a nutshell what my job is all about. 
+
+//I have seen real legends who do programming for living. They understand the software as they made it. Coders are driven creatures that like to
+break things and gain wisdom after breaking code. They are good at multi-tasking. There is a sense of appreciation for the code itself. 
+
+//task:
+- make a post data request to save data in db
+- 
+
+
 JS has concepts that are unique to the language:
 
 Following topics to look into:
