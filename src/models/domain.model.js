@@ -1,7 +1,5 @@
-const sequelize = require("sequelize")
-
-const { Sequelize} 
-
-module.exports = () => {
-    const Domain = sequelize.STRING
-},
+module.exports = (sequelize, Sequelize) => {
+    const Domain = sequelize.define("domain" , {
+        
+    })
+}
