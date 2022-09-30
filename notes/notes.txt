@@ -18,6 +18,9 @@ break things and gain wisdom after breaking code. They are good at multi-tasking
 ship steering wheel must remain intact. It cant be timid, pestured, weakened or intoxicated. It has to be ever-present. Ready to execute. Ready to explode.
 
 
+//ORM is good. It allows to map objects to data records. I am experimenting with
+making sample tables and perform crud operation. 
+
 //task:
 - make a post data request to save data in db
 - 
