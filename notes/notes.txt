@@ -21,6 +21,16 @@ ship steering wheel must remain intact. It cant be timid, pestured, weakened or 
 //ORM is good. It allows to map objects to data records. I am experimenting with
 making sample tables and perform crud operation. 
 
+//crud 101:
+- setup the server
+- setup the db
+- connect to db
+- make a table
+- insert data in db
+- make logic
+- make routes
+- test it!!
+
 //task:
 - make a post data request to save data in db
 - 
