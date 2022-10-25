@@ -24,7 +24,7 @@ This is to test the HTTP and the CRUD operation with Express framework.
 
 - [x] get the server setup and to run
 
-- [x] set up the database. Name: local-db
+- [] set up the database. Name: local-db
 
 - [] populate the database :P
 
