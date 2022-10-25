@@ -22,7 +22,7 @@ This is to test the HTTP and the CRUD operation with Express framework.
 
 # Checklist
 
-- [] get the server setup and to run
+- [x] get the server setup and to run
 
 - [] connect the server to the database
 
