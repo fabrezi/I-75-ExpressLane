@@ -24,9 +24,13 @@ This is to test the HTTP and the CRUD operation with Express framework.
 
 - [x] get the server setup and to run
 
-- [] connect the server to the database
+- [x] set up the database. Name: local-db
 
-- [] populate the db with domain 
+- [] populate the database :P
 
-- [] endpoint: read -- domain
+- [] connect the server to the db
+
+- [] endpoint: get, post, put, delete
+
+----------------------THE END---------------------------------------
 
