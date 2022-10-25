@@ -1,5 +1,8 @@
 const express = require('express');
 const app = express(); //app is an instance of express
+//each programmar starts off as a video gamer. that is the 
+//fundamental. Games are fundamental to creativty and thinking.
+//game allows one to see how the code works.
 
 //format of the command:
 //app.method(path, handler)

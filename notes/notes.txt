@@ -21,6 +21,14 @@ ship steering wheel must remain intact. It cant be timid, pestured, weakened or 
 //ORM is good. It allows to map objects to data records. I am experimenting with
 making sample tables and perform crud operation. 
 
+//The day you find yourself. You truly understand who you are then you can 
+//do anything kid. You can move mountains, dig gold and make the world better.
+//bsc you know yourself. 
+
+//The wild cowboyz ride through the storm. We are on the iron horses that
+//glide through the open fields like a red velvet carpet sprawled in the 
+//sitting area.
+
 //crud 101:
 - setup the server
 - setup the db
@@ -45,10 +53,3 @@ Following topics to look into:
 - exports.module
 - require: 
 - async ()
-- 
-
-Stack:
--server: express
--db: postgres
--orm: sequelize
--
