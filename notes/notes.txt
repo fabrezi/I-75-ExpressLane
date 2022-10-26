@@ -33,6 +33,17 @@ making sample tables and perform crud operation.
 //then only you can start to critique. There is an iceberg laying solemn 
 //in my chest.
 
+//each programmar starts off as a video gamer. that is the 
+//fundamental. Games are fundamental to creativty and thinking.
+//game allows one to see how the code works.
+
+//the hardest part of coding is thinking in terms of alogorithms.
+//it is pure science. It is pure logic and systematic. It is hard.
+//that is why I get paid for. to lift the heavy load and change the 
+//world.
+
+//What is America? Kapital.
+
 
 
 //crud 101:
