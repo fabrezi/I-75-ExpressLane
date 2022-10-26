@@ -29,6 +29,12 @@ making sample tables and perform crud operation.
 //glide through the open fields like a red velvet carpet sprawled in the 
 //sitting area.
 
+//I always look at the fundamentals. What is the essence of the object?
+//then only you can start to critique. There is an iceberg laying solemn 
+//in my chest.
+
+
+
 //crud 101:
 - setup the server
 - setup the db
@@ -46,10 +52,7 @@ making sample tables and perform crud operation.
 
 JS has concepts that are unique to the language:
 
-Following topics to look into:
-- `=>` what the fuck is this?:
-   :: arrow function expression: 
-- (req,res)
-- exports.module
-- require: 
-- async ()
+//what is the fundamental components of a language:
+//There is the variables, type system ...
+
+
