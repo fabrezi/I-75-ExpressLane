@@ -5,4 +5,9 @@
 //I am living in the modern world. the new world. This is the society that
 //has ceased to believe in humanity and we are all instructed to follow
 //our feable desires.
-//three great technologies are: telnet,
+//three great technologies are: telnet.
+
+//the great research fields are: security,quantum,algo and ml.
+//there are great problems yet to be solved. There is a need to 
+//new ideas to uproot the methods of the olds. Yet I sense a weakness
+//of will. How solemn it makes me feel.
